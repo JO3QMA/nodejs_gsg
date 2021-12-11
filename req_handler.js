@@ -1,5 +1,3 @@
-var exec = require('child_process').exec;
-
 function start(res){
   console.log("Request handler 'start' was called.");
 
